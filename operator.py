@@ -23,3 +23,4 @@ print(200<=500)
 name1='vishnu'
 name2='vishnu'
 print(name1>name2)
+print(name1>=name2)
