@@ -1,7 +1,4 @@
 this is my first code
+ok
+go ahead
 
-git commands 
-
-git init
-
-git add
